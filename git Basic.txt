@@ -1,0 +1,17 @@
+git init
+
+git add fileNamewith ex..
+
+git add .  ->> add all the files&folder in the folder
+
+git conifg --global user.name githubUserName
+git conifg --global user.email githubEmail
+
+git status -->> to check the status of the folder
+
+git commit -m "message"  -->> 
+
+
+git remote add origin Repo Url
+
+git push origin master
